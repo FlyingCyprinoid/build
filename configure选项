@@ -1,0 +1,1 @@
+./configure --prefix=/opt/QT5.9.2   -xplatform linux-arm-gnueabihf-g++ -qt-freetype  -qt-pcre -no-sse2 -no-sse3 -v -sysroot /opt/arm-cortexa9-linux-gnueabihf-4.9.3/4.9.3/arm-cortexa9-linux-gnueabihf/sys-root -qt-sqlite  -qt-zlib -qt-libpng -qt-libjpeg  -tslib -no-pch -release -shared -opensource -confirm-license -linuxfb  -no-dbus  -nomake tests -nomake examples

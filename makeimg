@@ -1,0 +1,1 @@
+sudo ./make_ext4fs -s -l 4097152000 -a root -L rootfs target-ubuntu-rootfs.img target-ubuntu-rootfs/
